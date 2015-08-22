@@ -1,10 +1,10 @@
 name: Simply Grey
 markdown: redcarpet
 pygments: true
-github: https://www.github.com/exaem
+github: https://www.github.com/zhouzizi
 about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
 urls:
     - text: github
-      url: https://github.com/exaem
+      url: https://github.com/zhouzizi
     - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: mailto:271460023@qq.com
